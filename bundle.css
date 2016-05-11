@@ -2,6 +2,12 @@
  * Colors
  */
 
+/* stylelint-disable no-indistinguishable-colors */
+
+/* to pass linting against --color-thimphu --color-berlin */
+
+/* stylelint-enable no-indistinguishable-colors */
+
 .palette__inline-color-block {
   display: inline-block;
   vertical-align: middle;
