@@ -6,6 +6,7 @@ const colors = [
   [ 'kiev', '#383E42' ],
   [ 'moscow', '#7A7A7A' ],
   [ 'london', '#B6B6B6' ],
+  [ 'cardiff', '#D7D7D7' ],
   [ 'berlin', '#F2F2F2' ],
   [ 'thimphu', '#FFFFFF' ],
   [ 'honolulu', '#16C9B3' ],
